@@ -73,7 +73,6 @@ Enter details in the app and get instant insurance cost predictions 💰
 
 
 
-
 📌 Tech Stack
 
 Python
@@ -83,3 +82,15 @@ Pandas, NumPy (Data processing)
 Scikit-learn (Machine Learning)
 
 Streamlit (Web app deployment)
+
+
+demo of UI:
+
+<img width="745" height="525" alt="Screenshot 2025-09-16 191717" src="https://github.com/user-attachments/assets/9ade161e-25d3-451e-9dd6-8e6292a48ced" />
+
+<img width="690" height="200" alt="Screenshot 2025-09-16 192123" src="https://github.com/user-attachments/assets/6bc6b6f4-b8b0-491e-94ad-d1edc34a17de" />
+
+
+
+
+
