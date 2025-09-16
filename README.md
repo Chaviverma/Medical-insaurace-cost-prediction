@@ -54,8 +54,7 @@ Categorization of premium into Low, Medium, High ranges
 
 Clone this repository
 
-git clone https://github.com/Chaviverma/insurance-cost-prediction.git
-cd insurance-cost-prediction
+https://github.com/Chaviverma/Medical-insaurace-cost-prediction
 
 
 Install dependencies
